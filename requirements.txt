@@ -191,7 +191,6 @@ simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.12.0
 sklearn==0.0
--e git+https://github.com/tensorflow/models.git@de10c0c25630dd05aab871ece7a88e0e009a39ce#egg=slim&subdirectory=research\slim
 smart-open==1.8.3
 snowballstemmer==1.2.1
 sortedcollections==1.1.2
